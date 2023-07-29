@@ -51,4 +51,4 @@ This markdown file provides an overview of your React Notepad app, including ins
 
 Feel free to modify the content according to your specific project details or add any other relevant information you'd like to include. Once you've created the markdown file, you can use it to provide documentation or a project overview for your Notepad React App hosted on the GitHub repository.
 
-**Note:** This project is a on-browser feature, meaning if close browser tab or window, saved data is cleaned. This is because it utilizes a json and not a backend, database or local-storage for storing data.
+**Note:** This project utilizes a json and not a backend, database or local-storage for storing data.
