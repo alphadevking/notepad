@@ -47,8 +47,4 @@ The app uses Tailwind CSS for styling. Styling classes can be found in the respe
 
 ---
 
-This markdown file provides an overview of your React Notepad app, including instructions on how to set it up locally, a project structure overview, functionality description, and information about the used API endpoint and data structure.
-
-Feel free to modify the content according to your specific project details or add any other relevant information you'd like to include. Once you've created the markdown file, you can use it to provide documentation or a project overview for your Notepad React App hosted on the GitHub repository.
-
 **Note:** This project utilizes a json and not a backend, database or local-storage for storing data.
